@@ -1,0 +1,44 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "venda",
+      "price": 12000,
+      "createdAt": "2022-12-22T17:59:26.838Z"
+    },
+    {
+      "id": 2,
+      "description": "Haburguer",
+      "type": "outcome",
+      "category": "alimentação",
+      "price": 50,
+      "createdAt": "2022-12-22T17:40:26.838Z"
+    },
+    {
+      "id": 3,
+      "description": "Curso Ignite Rocketseat",
+      "type": "outcome",
+      "category": "educação",
+      "price": 1980,
+      "createdAt": "2022-10-22T12:40:26.838Z"
+    },
+    {
+      "description": "App Mobile",
+      "price": 8000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2022-12-23T21:45:37.500Z",
+      "id": 4
+    },
+    {
+      "description": "Pastel",
+      "price": 5,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2022-12-23T22:19:01.685Z",
+      "id": 5
+    }
+  ]
+}
